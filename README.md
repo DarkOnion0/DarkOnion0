@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning [Python](https://www.python.org) and [GitHub](https://github.com/)
+- 🌱 I’m currently learning [Python](https://www.python.org) and [GitHub](https://github.com/) / [GitLab](https://gitlab.com/DarkOnion0) :grin:
 <!--
 **DarkOnion0/DarkOnion0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
