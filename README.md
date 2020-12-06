@@ -1,5 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning [Python](https://www.python.org) and [GitHub](https://github.com/) / [GitLab](https://gitlab.com/DarkOnion0) :grin:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DarkOnion0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOnion0)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **DarkOnion0/DarkOnion0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
