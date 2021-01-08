@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a french student who loves computer (mostly linux) and who code just for fun :grin:.
+- I'm a french student who loves computer (mostly linux) and who code just for fun :grin:
 - 🌱 I’m currently learning [Python](https://www.python.org)
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Arch_Linux)  
