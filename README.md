@@ -5,11 +5,11 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Arch_Linux)  
 
 
-[![GitHub metrics](https://metrics.lecoq.io/DarkOnion0)](https://metrics.lecoq.io/)
+[![Metrics](https://metrics.lecoq.io/DarkOnion0?template=classic&activity=1&followup=1&languages=1&activity.limit=3&activity.days=14&activity.filter=all&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis&config.animated=true)](https://metrics.lecoq.io/)
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DarkOnion0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOnion0)](https://github.com/anuraghazra/github-readme-stats)
+-->  
 
 <!--
 **DarkOnion0/DarkOnion0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
