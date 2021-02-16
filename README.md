@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning [Python](https://www.python.org)
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Arch_Linux)  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DarkOnion0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+![GitHub metrics](https://metrics.lecoq.io/DarkOnion0)
+<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DarkOnion0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOnion0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
