@@ -1,8 +1,15 @@
-### Hi there 👋
-- I'm a french student who loves computer (mostly linux) and who code just for fun :grin:
-- 🌱 I’m currently learning [Python](https://www.python.org)
+# Hi there 👋
+- I'm a french student who loves computer (mostly linux) and who code just for fun :grin:  
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Arch_Linux)  
+
+## Programming languages
+- 🐍 Python
+- 🌱 JavaScript (I'm learning it)
+<!--
+- 🌱 I’m currently learning [Python](https://www.python.org)
+-->
+
 
 <!--
 [![Metrics](https://metrics.lecoq.io/DarkOnion0?template=classic&activity=1&followup=1&languages=1&activity.limit=3&activity.days=14&activity.filter=all&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis&config.animated=true)](https://metrics.lecoq.io/)
