@@ -1,7 +1,11 @@
 # Hi there 👋
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Kubuntu)  
-- I'm a french student who loves computer (mostly linux) and who code just for fun :grin:  
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Kubuntu" alt="Kubuntu Wikipedia Page">
+        <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white" /></a>
+</p>
 
+- I'm a french student who loves computer (mostly linux) and who code just for fun :grin:  
+  
 ## Programming languages
 - 🐍 Python
 - 🌱 JavaScript (I'm learning it)
