@@ -8,7 +8,8 @@
   
 ## Programming languages
 - 🐍 Python
-- 🌱 JavaScript (I'm learning it)
+- 🌐 JavaScript
+- 🐹 Golang (I'm learning it)
 <!--
 - 🌱 I’m currently learning [Python](https://www.python.org)
 -->
