@@ -1,25 +1,20 @@
 # Hi there 👋
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Kubuntu" alt="Kubuntu Wikipedia Page">
-        <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/OS-Kubuntu-informational?style=for-the-badge&logo=Kubuntu&logoColor=white" /></a>
+  
+  <a href="https://common-kryptops-3ca.notion.site/Portfolio-55e12a0097b94be38120ecae8e5c2734" alt="My Notion Portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-My%20Notion%20Page-informational?style=for-the-badge&logo=notion&logoColor=white&color=red" /></a>
 </p>
 
 I'm a french student who loves computer (mostly linux) and who code just for fun :grin:  
   
-## Programming languages
-- 🐍 Python
-- 🌐 JavaScript
-- 🐹 Golang (I'm learning it)
+
 <!--
 - 🌱 I’m currently learning [Python](https://www.python.org)
 -->
 
-
-<!--
-[![Metrics](https://metrics.lecoq.io/DarkOnion0?template=classic&activity=1&followup=1&languages=1&activity.limit=3&activity.days=14&activity.filter=all&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis&config.animated=true)](https://metrics.lecoq.io/)
---> 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DarkOnion0&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOnion0&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/DarkOnion0?template=classic&languages=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FParis)
 
 <!--
 **DarkOnion0/DarkOnion0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
