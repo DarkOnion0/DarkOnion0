@@ -22,7 +22,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                                # Hides all languages less than 2%
           plugin_languages_limit: 8                                     # Display up to 8 languages
-          plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
+          plugin_languages_sections: most-used                          # Display most used and recently used languages stats
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
           plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
