@@ -5,7 +5,7 @@ I'm a french student who loves computer (mostly linux) and who code just for fun
   <a href="https://en.wikipedia.org/wiki/NixOS" alt="NixOS Wikipedia Page">
         <img src="https://img.shields.io/badge/OS-NixOS-informational?style=for-the-badge&logo=Nixos&logoColor=white" /></a>
   
-  <a href="https://common-kryptops-3ca.notion.site/Portfolio-55e12a0097b94be38120ecae8e5c2734" alt="My Notion Portfolio">
+  <a href="https://alexoo.notion.site/Portfolio-55e12a0097b94be38120ecae8e5c2734" alt="My Notion Portfolio">
         <img src="https://img.shields.io/badge/Portfolio-My%20Notion%20Page-informational?style=for-the-badge&logo=notion&logoColor=white&color=red" /></a>
 </p>
 
