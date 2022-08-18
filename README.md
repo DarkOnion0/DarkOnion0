@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a french student who loves computer (mostly linux) and who code just for fun :grin:
+I'm a french student who likes computer (mostly linux) and who code just for fun :grin:
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/NixOS" alt="NixOS Wikipedia Page">
