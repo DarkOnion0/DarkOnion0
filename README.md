@@ -1,7 +1,10 @@
 # Hi there 👋
-I'm a french student who likes computer (mostly linux) and who code just for fun :grin:
+<p align="center">
+  I'm a clumsy computer science fan, who codes just for fun/practical reasons 🐧
+</p>
 
 <p align="center">
+
   <a href="https://en.wikipedia.org/wiki/NixOS" alt="NixOS Wikipedia Page">
         <img src="https://img.shields.io/badge/OS-NixOS-informational?style=for-the-badge&logo=Nixos&logoColor=white" /></a>
   <!--
